@@ -1,0 +1,7 @@
+{
+  "name": "Warehouse Management System",
+  "description": "Real-time multi-facility warehouse inventory tracking, automated reordering, and analytics management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
